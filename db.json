@@ -1,0 +1,9 @@
+{
+  "activities": [
+    {
+      "shortName": "102077.TEST.TEST",
+      "description": "test activity desc",
+      "costElements": [{ "labor": 1111 }, { "material": 500 }]
+    }
+  ]
+}
