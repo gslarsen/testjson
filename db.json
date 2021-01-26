@@ -3,7 +3,7 @@
     {
       "shortName": "102077.TEST.TEST",
       "description": "test activity desc",
-      "costElements": [{ "labor": 1111 }, { "material": 500 }]
+      "costElements": [{ "element": "labor", "estimate": 1111 }, { "element": "material", "estimate": 500 }]
     }
   ]
 }
