@@ -1,9 +1,18 @@
 {
-  "activities": [
-    {
-      "shortName": "102077.TEST.TEST",
-      "description": "test activity desc",
-      "costElements": [{ "element": "labor", "estimate": 1111 }, { "element": "material", "estimate": 500 }]
-    }
-  ]
+  "activities":[
+  {
+    "shortName": "102077.TEST.TEST",
+    "description": "test activity desc",
+    "hours": 0,
+    "labor": 2222,
+    "material": 1111
+  },
+  {
+    "shortName": "102077.TEST.TEST2",
+    "description": "test activity desc2",
+    "hours": 1,
+    "labor": 3333,
+    "material": 4444
+  }
+]
 }
