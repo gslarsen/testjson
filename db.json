@@ -1,20 +1,20 @@
 {
   "activities":[
-  {
-    "id": 1,
-    "shortName": "102077.TEST.TEST",
-    "description": "test activity desc",
-    "hours": 0,
-    "labor": 2222,
-    "material": 1111
-  },
-  {
-    "id": 2,
-    "shortName": "102077.TEST.TEST2",
-    "description": "test activity desc2",
-    "hours": 1,
-    "labor": 3333,
-    "material": 4444
-  }
-]
+    {
+      "id": 1,
+      "shortName": "102077.TEST.TEST",
+      "description": "test activity desc",
+      "hours": 0,
+      "labor": 2222,
+      "material": 1111
+    },
+    {
+      "id": 2,
+      "shortName": "102077.TEST.TEST2",
+      "description": "test activity desc2",
+      "hours": 1,
+      "labor": 3333,
+      "material": 4444
+    }
+  ]
 }
