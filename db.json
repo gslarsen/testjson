@@ -2,14 +2,14 @@
   "activities":[
     {
       "shortName": "102806.TEST.TEST",
-      "description": "test activity desc",
+      "activity": "test activity desc",
       "hours": 0,
       "labor": 2222,
       "material": 1111
     },
     {
       "shortName": "102806.TEST.TEST2",
-      "description": "test activity desc2",
+      "activity": "test activity desc2",
       "hours": 1,
       "labor": 3333,
       "material": 4444
