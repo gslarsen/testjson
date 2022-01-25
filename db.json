@@ -11,8 +11,8 @@
       "shortName": "102806.TEST.TEST2",
       "activity": "test activity desc2",
       "hours": 1,
-      "labor": 3333,
-      "material": 4444
+      "labor": 3456,
+      "material": 4567
     }
   ]
 }
