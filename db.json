@@ -4,14 +4,14 @@
       "shortName": "102806.TEST.TEST123",
       "activity": "test activity desc",
       "hours": 0,
-      "labor": 2222,
+      "LABOR": 2222,
       "material": 1111
     },
     {
       "shortName": "102806.TEST.TEST2",
       "activity": "test activity desc2",
       "hours": 1,
-      "labor": 3141,
+      "LABOR": 3141,
       "material": 2718
     }
   ]
